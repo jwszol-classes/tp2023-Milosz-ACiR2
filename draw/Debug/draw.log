@@ -1,0 +1,33 @@
+﻿  stdafx.cpp
+  draw2.cpp
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(53,9): warning C4244: "inicjowanie": konwersja z "LONG" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(54,5): warning C4244: "inicjowanie": konwersja z "LONG" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(92,9): warning C4244: "inicjowanie": konwersja z "Gdiplus::REAL" do "int", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(93,9): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(94,9): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(96,23): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(99,33): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(99,18): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(99,14): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(110,46): warning C4244: "=": konwersja z "LONG" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(111,45): warning C4244: "=": konwersja z "LONG" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(112,45): warning C4244: "=": konwersja z "Gdiplus::REAL" do "int", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(113,9): warning C4244: "inicjowanie": konwersja z "Gdiplus::REAL" do "int", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(114,18): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(114,14): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(117,9): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(118,10): warning C4244: "inicjowanie": konwersja z "Gdiplus::REAL" do "int", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(119,9): warning C4244: "inicjowanie": konwersja z "Gdiplus::REAL" do "int", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(120,9): warning C4244: "inicjowanie": konwersja z "Gdiplus::REAL" do "int", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(164,9): warning C4244: "inicjowanie": konwersja z "Gdiplus::REAL" do "int", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(165,9): warning C4244: "inicjowanie": konwersja z "Gdiplus::REAL" do "int", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(167,45): warning C4244: "=": konwersja z "LONG" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(168,22): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(168,18): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(168,14): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(174,10): warning C4244: "=": konwersja z "Gdiplus::REAL" do "int", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(184,85): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(184,78): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(184,61): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\milos\Desktop\GIT\Projekt__4\draw\draw2.cpp(184,29): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+  draw.vcxproj -> C:\Users\milos\Desktop\GIT\Projekt__4\Debug\draw2.exe
